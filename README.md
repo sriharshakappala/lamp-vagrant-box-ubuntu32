@@ -3,6 +3,8 @@ lamp-vagrant-box-ubuntu32
 
 LAMP Vagrant Box(Ubuntu 32-bit) - Pre Installed with Apache, MYSQL and PHP
 
+Get your LAMP environment up and running with in minutes with this vagrant box.
+
 You can download this Vagrant Box here https://www.dropbox.com/s/rr1uk4r7hyfreyh/lamp-precise32.rar
 
 
